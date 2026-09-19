@@ -1,0 +1,38 @@
+{
+  "programming_languages": [
+    "python", "java", "c++", "c#", "javascript", "typescript", "html", "css",
+    "sql", "r", "go", "rust", "dart", "kotlin", "swift", "php", "ruby",
+    "scala", "perl", "matlab", "bash", "shell", "powershell"
+  ],
+  "frameworks_libraries": [
+    "pytorch", "tensorflow", "scikit-learn", "sklearn", "pandas", "numpy",
+    "flutter", "react", "react native", "fastapi", "flask", "django",
+    "node.js", "express", "next.js", "vue", "angular", "svelte", "spring",
+    "spring boot", "laravel", "rails", "keras", "matplotlib", "seaborn",
+    "jquery", "bootstrap", "tailwind css"
+  ],
+  "databases": [
+    "postgresql", "mysql", "mongodb", "sqlite", "redis", "cassandra",
+    "dynamodb", "oracle", "mariadb", "elasticsearch", "neo4j"
+  ],
+  "cloud_devops": [
+    "docker", "kubernetes", "k8s", "aws", "azure", "gcp", "google cloud",
+    "ci/cd", "jenkins", "github actions", "gitlab ci", "circleci",
+    "terraform", "ansible", "prometheus", "grafana", "nginx", "apache",
+    "mlops", "git", "github", "gitlab", "linux", "unix", "mlflow",
+    "airflow", "cloudformation", "helm"
+  ],
+  "concepts_methods": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "rest api", "rest apis", "restful api", "graphql",
+    "system design", "data science", "agile", "scrum", "kanban",
+    "microservices", "api design", "oop", "functional programming",
+    "data structures", "algorithms", "unit testing", "integration testing",
+    "tdd", "ci", "cd", "etl", "data pipeline", "big data", "data analysis",
+    "data visualization", "feature engineering", "model deployment"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "problem solving", "critical thinking",
+    "leadership", "time management", "collaboration"
+  ]
+}
