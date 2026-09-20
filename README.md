@@ -232,8 +232,6 @@ Full API docs available at **http://127.0.0.1:8000/docs** after starting the bac
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Landing Page
 
 ![SkillBridge AI Landing Page](docs/screenshots/ocsscreenshots01-welcome.png.png)
